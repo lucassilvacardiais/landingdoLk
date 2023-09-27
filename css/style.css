@@ -1,0 +1,57 @@
+
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+    padding-bottom: 6rem;
+    
+   
+}
+
+.jumbotron img{
+    width: 400px;
+    height: 438px;
+}
+
+#projects {
+    background-color: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
+
+/* Estilizando a seção "Me contate" */
+#contact {
+    background-color: #f8f9fa; /* Cor de fundo da seção */
+    padding: 3rem 0; /* Espaçamento interno da seção */
+}
+
+#contact h2 {
+    color: #007bff; /* Cor do título "Me contate" */
+}
+
+#contact p {
+    font-size: 18px; /* Tamanho da fonte do parágrafo */
+}
+
+#contact ul {
+    list-style: none; /* Remover marcadores da lista de redes sociais */
+    padding: 0; /* Remover espaçamento interno da lista */
+}
+
+#contact ul li {
+    margin-bottom: 10px; /* Espaçamento inferior entre os itens da lista */
+}
+
+/* Estilizando os links de redes sociais */
+#contact a {
+    text-decoration: none; /* Remover sublinhado padrão dos links */
+    color: #007bff; /* Cor dos links (azul) */
+    transition: color 0.3s ease; /* Transição suave da cor ao passar o mouse */
+}
+
+#contact a:hover {
+    color: #0056b3; /* Cor do link ao passar o mouse (tom mais escuro de azul) */
+}
+
